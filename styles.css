@@ -552,7 +552,7 @@ footer{
         display: none;
     }
 }
-@media(max-width:640px){
+@media(max-width:644px){
     .image1,.image2{
         display: none;
     }
