@@ -50,6 +50,7 @@ li{
 .hamburger-links-list{
    position: absolute;
    background-color:#fbe3e8;
+    box-shadow: 10px 10px 8px 10px #888888;
    top:35px;
    left:-2px;
    width: 200px;
